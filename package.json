@@ -1,0 +1,23 @@
+{
+  "name": "demova",
+  "version": "1.0.0",
+  "description": "value added",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanshika55555/demoVA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanshika55555/demoVA/issues"
+  },
+  "homepage": "https://github.com/vanshika55555/demoVA#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
